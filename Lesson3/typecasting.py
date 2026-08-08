@@ -1,0 +1,12 @@
+marks=68.98
+print(marks)
+print(type(marks))
+a=int(marks)
+print(a)
+print(type(a))
+age="18"
+print(age)
+print(type(age))
+b=int(age)
+print(b)
+print(type(b))
