@@ -15,4 +15,8 @@ tree5=20
 sum=(tree1+tree2+tree3+tree4+tree5)
 print("The sum of all 5 trees is",sum)
 average=(sum/5)
+<<<<<<< HEAD
 print(average)
+=======
+print(average)
+>>>>>>> 53d5e53b7305608c43725b82d8609640c25fea40
