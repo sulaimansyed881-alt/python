@@ -1,0 +1,10 @@
+birthday1= "2-22-2020"
+birthday2= "8-9-1999"
+birthday3= "18-12-1874"
+birthday4= "4-1-1900"
+birthday5= "1-1-1200"
+print("birthday1", birthday1)
+print("birthday2", birthday2)
+print("birthday3", birthday3)
+print("birthday4", birthday4)
+print("birthday5", birthday5)
