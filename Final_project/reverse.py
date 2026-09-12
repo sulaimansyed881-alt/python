@@ -1,2 +1,2 @@
 python reverse.py
-print("It is hot")s
+print("It is hot")
