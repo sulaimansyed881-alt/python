@@ -1,8 +1,5 @@
-
-
-character = input("Enter a character: ")
-
-if character():
-    print("The given character is an integer.")
+character=input("Enter your character")
+if character>"a" and character<="z":
+    print("The given character is a character.")
 else:
-    print("The given character is not an integer.")
+    print("The given character is not a character.")
