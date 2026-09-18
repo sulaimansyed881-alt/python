@@ -1,0 +1,5 @@
+n=int(input("Enter number"))
+print(float(n))
+print(n)
+print(n**2)
+print(type(n))
