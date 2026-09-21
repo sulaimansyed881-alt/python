@@ -1,0 +1,10 @@
+set1={1,2,3,4,8,9,10}
+set2={4,5,7,9,11}
+a=set1.union(set2)
+print(a)
+b=set1.difference(set2)
+print(b)
+c=set1.symmetric_difference(set2)
+print(c)
+d=set1.intersection(set2)
+print(d)
